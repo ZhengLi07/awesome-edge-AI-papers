@@ -10,6 +10,7 @@ A curated list of Edge AI papers. If you find some interesting work/projects, pl
 - \[COMST'22\] [Pervasive AI for IoT applications: A survey on resource-efficient distributed artificial intelligence](content/2022/comst22-pervasive-ai.md)
 
 ## 2024
+- \[TMC'24\] [DVFO: Learning-Based DVFS for Energy-Efficient Edge-Cloud Collaborative Inference](content/2024/tmc24-dvfo.md)
 - \[TMC'24\] [Startup-aware Dependent Task Scheduling with Bandwidth Constraints in Edge Computing](content/2024/tmc24-sdts.md)
 - \[TMC'24\] [Multi-agent deep reinforcement learning based uav trajectory optimization for differentiated services](content/2024/tmc24-multiagent.md)
 - \[OSDI'24\] [ServerlessLLM: Low-Latency Serverless Inference for Large Language Models](content/2024/osdi24-serverlessllm.md) - \[[Code](https://github.com/ServerlessLLM/ServerlessLLM)\]
